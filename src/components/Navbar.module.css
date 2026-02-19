@@ -260,4 +260,12 @@
     .mobileMenu {
         display: flex;
     }
+
+    .logoImg {
+        height: 20px;
+    }
+
+    .pill {
+        gap: 12px;
+    }
 }
