@@ -34,13 +34,13 @@ export default function CTA() {
 
                         <BlurFadeIn delay={0.25}>
                             <p className={styles.subtitle}>
-                                Add these logistical wonders to your kit and deliver world-class training anywhere, anytime.
+                                This launch isn't just about new games; it's about making your business easier to run and more profitable.
                             </p>
                         </BlurFadeIn>
 
                         <BlurFadeIn delay={0.35}>
                             <p className={styles.highlight}>
-                                Four games, one purchase.
+                                One kit. Endless impact.
                             </p>
                         </BlurFadeIn>
 
