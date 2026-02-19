@@ -102,7 +102,7 @@ export default function Footer() {
             >
                 <div className="container">
                     <div className={styles.bottomInner}>
-                        <p className={styles.copyright}>© {new Date().getFullYear()} Kairos. All rights reserved.</p>
+{/* Copyright text removed as requested */}
                     </div>
                 </div>
             </motion.div>
