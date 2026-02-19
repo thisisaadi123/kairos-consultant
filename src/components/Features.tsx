@@ -162,8 +162,7 @@ export default function Features() {
                         animate={isInView ? { opacity: 1, y: 0 } : {}}
                         transition={{ duration: 0.6, delay: 0.4 }}
                     >
-                        Four games, one purchase — designed to <strong>multiply your workshop offerings</strong>,
-                        simplify your logistics, and give your clients fresh, high-impact experiences from day one.
+                        This launch isn&apos;t just about new games; it&apos;s about making your business easier to run and more profitable.
                     </motion.p>
                 </motion.div>
 

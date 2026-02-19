@@ -34,7 +34,7 @@ export default function CTA() {
 
                         <BlurFadeIn delay={0.25}>
                             <p className={styles.subtitle}>
-                                This launch isn't just about new games; it's about making your business easier to run and more profitable.
+                                Add these logistical wonders to your kit and deliver world-class training anywhere, anytime.
                             </p>
                         </BlurFadeIn>
 
