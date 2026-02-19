@@ -192,6 +192,17 @@
     }
 }
 
+/* Very small mobile (iPhone SE, etc) */
+@media (max-width: 375px) {
+    .hero {
+        padding: 90px 16px 40px !important;
+    }
+
+    .title {
+        font-size: 1.75rem !important;
+    }
+}
+
 /* Tablet breakpoint refinement */
 @media (min-width: 901px) and (max-width: 1100px) {
     .title {
