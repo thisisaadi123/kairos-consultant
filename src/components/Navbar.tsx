@@ -67,7 +67,7 @@ export default function Navbar() {
                     }}
                 >
                     {/* Logo */}
-                    <a href="/" className={styles.logo}>
+                    <a href="https://playkairos.com" className={styles.logo}>
                         <Image
                             src="/kairos-logo.png"
                             alt="Kairos"
