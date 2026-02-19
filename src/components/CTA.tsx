@@ -27,14 +27,14 @@ export default function CTA() {
                     <div className={styles.inner}>
                         <BlurFadeIn delay={0.15}>
                             <h2 className={styles.heading}>
-                                Upgrade Your Training{" "}
-                                <span className={styles.headingAccent}>Calendar Today</span>
+                                Ready to integrate the fabulous{" "}
+                                <span className={styles.headingAccent}>new games?</span>
                             </h2>
                         </BlurFadeIn>
 
                         <BlurFadeIn delay={0.25}>
                             <p className={styles.subtitle}>
-                                Be the first to bring these seamless, high-impact games to your organization.
+                                Add these logistical wonders to your kit and deliver world-class training anywhere, anytime.
                             </p>
                         </BlurFadeIn>
 
